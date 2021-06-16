@@ -9,11 +9,16 @@ togother to obtain a complete robotic arm in its intial point.
 
 ## Usage
 You can get the parts sperately. Then combine them with cinema 4D in the following steps:
-1- set up the base in 90 degree.
-2- project the sholder on the base in 90 degree as well.
-3- then the elbow has a bump, face the bump toword the bump exists in the sholder. so they will be corrosponding to each other. This must be 90 degree.
-4- hold the wrist in 90 degree then keep the rectangular bump aligned with the previous bumps.
-5- finally, the grapper is rotated by 90 degree, and attached to the wrist.
+
+1. set up the base in 90 degree.
+
+3. project the sholder on the base in 90 degree as well.
+
+5. then the elbow has a bump, face the bump toword the bump exists in the sholder. so they will be corrosponding to each other. This must be 90 degree.
+
+7. hold the wrist in 90 degree then keep the rectangular bump aligned with the previous bumps.
+
+9. finally, the grapper is rotated by 90 degree, and attached to the wrist.
 
 ## Credits
 parts were provided by smart methods company.
